@@ -43,7 +43,7 @@ This project demonstrates deploying a microservices-based application on IBM Clo
 
 ## Application URL
 Access the application:  
-`[https://frontend.<unique-id>.us-south.codeengine.appdomain.cloud/](https://frontend.26r0lkimyq12.us-south.codeengine.appdomain.cloud/)`
+`https://frontend.26r0lkimyq12.us-south.codeengine.appdomain.cloud`
 
 ---
 
